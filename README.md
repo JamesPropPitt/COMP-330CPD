@@ -1,5 +1,7 @@
-# Weekly Reports
-SMART
+# Introduction
+While I am still unsure what path I wish to go down in terms of my career path, I have learned from doing this course that I no longer wish to pursue a career in programming or anything related to coding and computing. However this has still been a very useful learning experience; I have learned to co-operate in a team effectively, as well as come out of my comfort zone and throw myself into situations which require me to perform under stress. I have also learned how to properly manage myself in terms of time and how to deliver an assignment on time. 
+Some of the goals I had set myself in the previous Continued Personal Development report I have achieved, while two I am still focusing on achieving, these are listed and explained below.
+# SMART
 
 ### Willpower
 I have a tendency, as most people do, to play video games rather than get work done. I have gotten into the habit of becoming very good at procrastination techniques, so I sort out a time to get work done which gives me time to play games now but when the planned time comes I just move it back to another time, repeat. To combat this, I have decided to flip work and games around. Instead of negotiating when I do work, I will now negotiate when I play games. I hope this changes my mindset towards working and helps eliminate my tendency to simply keep pushing work back until it's too late. This is a key skill which has been carried over from the previous term, albeit my willpower has improved and my ability to force myself to work and complete tasks has largely been a success, there is still much to improve upon. I intend to locate a Pomodoro timer to better aid my concentration on tasks. This helps, as I am able to tell myself that I need only work for 15 minutes and then I can take a break, alleviating the stress and breaking work up into small bite-size steps.
@@ -21,6 +23,8 @@ Recently I have decided to start using a journal to write as much information as
 
 ### What's next?
 With these 5 skills improved upon, I expect to see myself more active and engaged when working in a team or accomplishing activities by myself. The Willpower and anxiety have been previous smart goals which I have failed to meet, but I have included them in this report since they are still relevant and still require tackling. Since the previous methods did not provide the intended outcome, I have changed how I intend to tackle these two key skills in hopes that the outcome this time will be more fortuitous. With the help of the university I will have achieved my goals I have set for myself by the end of July and I will be setting out into the world with a better state of mind and better character skills. When entering a job I will intend to keep up progress reports, in the form fo CPD reports, which I have learnt how to do during my time on this course. Due to these skills, I expect I will have a higher chance of both landing a job and maintaining one over long term times (>3 years).
+
+# Weekly Reports
 
 ## Week 1 - 24/09/2018
 This week I had to find a team to work with for the final year project. Fortunately Gareth approached me with the proposal of forming the 'Agency' which, instead of working on one final year game, we would work on freelance jobs given by people from outside the university.
